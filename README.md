@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **dakang824/dakang824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <h3 align="left">
  <abc>
   <br>👋 Hi, I'm Siv Ram Shastri.<br>
