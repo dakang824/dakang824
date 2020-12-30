@@ -1,6 +1,6 @@
 <h3 align="left">
  <abc>
-  <br>👋 Hi, I'm Siv Ram Shastri.<br>
+  <br>👋 Hi, I'm Kang.<br>
   <br> I'm a Frontend Web Developer. <br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
